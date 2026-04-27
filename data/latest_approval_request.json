@@ -1,0 +1,1132 @@
+{
+  "run_id": "20260427_173402",
+  "created_at": "2026-04-27T17:34:26.982529",
+  "source_summaries": [
+    {
+      "etf_name": "TIMEFOLIO 미국나스닥100액티브",
+      "etf_code": "426030",
+      "time_source": "TIME",
+      "time_source_url": "https://timeetf.co.kr/m11_view.php?idx=2",
+      "time_page_asof_text": "2026-04-27 05:34:03 기준",
+      "time_page_asof_source": "PAGE_CANDIDATE",
+      "time_page_asof_note": "",
+      "freshness_ok": true,
+      "freshness_msg": "TIME 페이지 기준일이 오늘로 확인됨",
+      "krx_check": {
+        "status": "NO_DATA",
+        "available": false,
+        "ok": false,
+        "message": "KRX PDF 데이터 없음",
+        "asof_text": null,
+        "details": {},
+        "tried_dates": [
+          "20260427",
+          "20260426",
+          "20260425",
+          "20260424",
+          "20260423",
+          "20260422",
+          "20260421"
+        ],
+        "selected_date": null,
+        "stale_days": null,
+        "final_source": "TIME_ONLY"
+      },
+      "final_reflection_source": "TIME_ONLY",
+      "manager": "TIMEFOLIO",
+      "market": "KRX",
+      "currency": "KRW",
+      "mix_weight": 0.5,
+      "top_holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "market": "US",
+          "weight": 0.06912772267102975,
+          "raw_symbol": "NVDA US EQUITY"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc",
+          "market": "US",
+          "weight": 0.05982206769608344,
+          "raw_symbol": "GOOGL US EQUITY"
+        },
+        {
+          "symbol": "SNDK",
+          "name": "Sandisk Corp/DE",
+          "market": "US",
+          "weight": 0.05798138869005011,
+          "raw_symbol": "SNDK US EQUITY"
+        },
+        {
+          "symbol": "ARM",
+          "name": "ARM Holdings PLC",
+          "market": "US",
+          "weight": 0.051641272113713055,
+          "raw_symbol": "ARM US EQUITY"
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corp",
+          "market": "US",
+          "weight": 0.04519889559259638,
+          "raw_symbol": "INTC US EQUITY"
+        },
+        {
+          "symbol": "BE",
+          "name": "Bloom Energy Corp",
+          "market": "US",
+          "weight": 0.03793843951324266,
+          "raw_symbol": "BE US EQUITY"
+        },
+        {
+          "symbol": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+          "market": "US",
+          "weight": 0.03732487984456488,
+          "raw_symbol": "TSM US EQUITY"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "market": "US",
+          "weight": 0.03517742100419266,
+          "raw_symbol": "TSLA US EQUITY"
+        },
+        {
+          "symbol": "COIN",
+          "name": "Coinbase Global Inc",
+          "market": "US",
+          "weight": 0.03262092238470191,
+          "raw_symbol": "COIN US EQUITY"
+        },
+        {
+          "symbol": "NBIS",
+          "name": "Nebius Group NV",
+          "market": "US",
+          "weight": 0.031189283157787094,
+          "raw_symbol": "NBIS US EQUITY"
+        },
+        {
+          "symbol": "CRCL",
+          "name": "Circle Internet Group Inc",
+          "market": "US",
+          "weight": 0.030575723489109318,
+          "raw_symbol": "CRCL US EQUITY"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "market": "US",
+          "weight": 0.02822374475917783,
+          "raw_symbol": "AVGO US EQUITY"
+        },
+        {
+          "symbol": "CIEN",
+          "name": "Ciena Corp",
+          "market": "US",
+          "weight": 0.02771244503527968,
+          "raw_symbol": "CIEN US EQUITY"
+        },
+        {
+          "symbol": "NQM6 INDEX",
+          "name": "NASDAQ 100 E-MINI INDEX JUN 2026",
+          "market": "UNKNOWN",
+          "weight": 0.027201145311381535,
+          "raw_symbol": "NQM6 Index"
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell Technology Inc",
+          "market": "US",
+          "weight": 0.02668984558748338,
+          "raw_symbol": "MRVL US EQUITY"
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "market": "US",
+          "weight": 0.02668984558748338,
+          "raw_symbol": "MU US EQUITY"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "market": "US",
+          "weight": 0.026178545863585236,
+          "raw_symbol": "AMZN US EQUITY"
+        },
+        {
+          "symbol": "LITE",
+          "name": "Lumentum Holdings Inc",
+          "market": "US",
+          "weight": 0.025667246139687083,
+          "raw_symbol": "LITE US EQUITY"
+        },
+        {
+          "symbol": "GEV",
+          "name": "GE Vernova Inc",
+          "market": "US",
+          "weight": 0.025155946415788936,
+          "raw_symbol": "GEV US EQUITY"
+        },
+        {
+          "symbol": "VRT",
+          "name": "Vertiv Holdings Co",
+          "market": "US",
+          "weight": 0.02321300746497597,
+          "raw_symbol": "VRT US EQUITY"
+        },
+        {
+          "symbol": "WDC",
+          "name": "Western Digital Corp",
+          "market": "US",
+          "weight": 0.021679108293281523,
+          "raw_symbol": "WDC US EQUITY"
+        },
+        {
+          "symbol": "CRDO",
+          "name": "Credo Technology Group Holding Ltd",
+          "market": "US",
+          "weight": 0.02055424890070559,
+          "raw_symbol": "CRDO US EQUITY"
+        },
+        {
+          "symbol": "SIMO",
+          "name": "Silicon Motion Technology Corp",
+          "market": "US",
+          "weight": 0.020042949176807445,
+          "raw_symbol": "SIMO US EQUITY"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms Inc",
+          "market": "US",
+          "weight": 0.019940689232027815,
+          "raw_symbol": "META US EQUITY"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "market": "US",
+          "weight": 0.019531649452909295,
+          "raw_symbol": "MSFT US EQUITY"
+        },
+        {
+          "symbol": "STX",
+          "name": "Seagate Technology Holdings PLC",
+          "market": "US",
+          "weight": 0.018815829839451886,
+          "raw_symbol": "STX US EQUITY"
+        },
+        {
+          "symbol": "HOOD",
+          "name": "Robinhood Markets Inc",
+          "market": "US",
+          "weight": 0.015748031496062992,
+          "raw_symbol": "HOOD US EQUITY"
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding NV",
+          "market": "US",
+          "weight": 0.014316392269148173,
+          "raw_symbol": "ASML US EQUITY"
+        },
+        {
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
+          "market": "US",
+          "weight": 0.014214132324368543,
+          "raw_symbol": "MSTR US EQUITY"
+        },
+        {
+          "symbol": "TSEM",
+          "name": "Tower Semiconductor Ltd",
+          "market": "US",
+          "weight": 0.012168933428775947,
+          "raw_symbol": "TSEM US EQUITY"
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corp",
+          "market": "US",
+          "weight": 0.01155537376009817,
+          "raw_symbol": "RKLB US EQUITY"
+        },
+        {
+          "symbol": "GLW",
+          "name": "Corning Inc",
+          "market": "US",
+          "weight": 0.010532774312301872,
+          "raw_symbol": "GLW US EQUITY"
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices Inc",
+          "market": "US",
+          "weight": 0.010225994477962982,
+          "raw_symbol": "AMD US EQUITY"
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corp",
+          "market": "US",
+          "weight": 0.010021474588403722,
+          "raw_symbol": "LRCX US EQUITY"
+        },
+        {
+          "symbol": "TER",
+          "name": "Teradyne Inc",
+          "market": "US",
+          "weight": 0.008794355251048165,
+          "raw_symbol": "TER US EQUITY"
+        },
+        {
+          "symbol": "COHR",
+          "name": "Coherent Corp",
+          "market": "US",
+          "weight": 0.008487575416709275,
+          "raw_symbol": "COHR US EQUITY"
+        },
+        {
+          "symbol": "FTAI",
+          "name": "FTAI Aviation Ltd",
+          "market": "US",
+          "weight": 0.007158196134574087,
+          "raw_symbol": "FTAI US EQUITY"
+        },
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly & Co",
+          "market": "US",
+          "weight": 0.006135596686777789,
+          "raw_symbol": "LLY US EQUITY"
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials Inc",
+          "market": "US",
+          "weight": 0.006135596686777789,
+          "raw_symbol": "AMAT US EQUITY"
+        },
+        {
+          "symbol": "AAOI",
+          "name": "Applied Optoelectronics Inc",
+          "market": "US",
+          "weight": 0.006033336741998159,
+          "raw_symbol": "AAOI US EQUITY"
+        }
+      ]
+    },
+    {
+      "etf_name": "TIMEFOLIO 글로벌AI인공지능액티브",
+      "etf_code": "456600",
+      "time_source": "TIME",
+      "time_source_url": "https://timeetf.co.kr/m11_view.php?idx=6",
+      "time_page_asof_text": "2026-04-27 05:34:04 기준",
+      "time_page_asof_source": "PAGE_CANDIDATE",
+      "time_page_asof_note": "",
+      "freshness_ok": true,
+      "freshness_msg": "TIME 페이지 기준일이 오늘로 확인됨",
+      "krx_check": {
+        "status": "NO_DATA",
+        "available": false,
+        "ok": false,
+        "message": "KRX PDF 데이터 없음",
+        "asof_text": null,
+        "details": {},
+        "tried_dates": [
+          "20260427",
+          "20260426",
+          "20260425",
+          "20260424",
+          "20260423",
+          "20260422",
+          "20260421"
+        ],
+        "selected_date": null,
+        "stale_days": null,
+        "final_source": "TIME_ONLY"
+      },
+      "final_reflection_source": "TIME_ONLY",
+      "manager": "TIMEFOLIO",
+      "market": "KRX",
+      "currency": "KRW",
+      "mix_weight": 0.5,
+      "top_holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "market": "US",
+          "weight": 0.058713692946058105,
+          "raw_symbol": "NVDA US EQUITY"
+        },
+        {
+          "symbol": "SNDK",
+          "name": "Sandisk Corp/DE",
+          "market": "US",
+          "weight": 0.05757261410788383,
+          "raw_symbol": "SNDK US EQUITY"
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corp",
+          "market": "US",
+          "weight": 0.05757261410788383,
+          "raw_symbol": "INTC US EQUITY"
+        },
+        {
+          "symbol": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+          "market": "US",
+          "weight": 0.056846473029045656,
+          "raw_symbol": "TSM US EQUITY"
+        },
+        {
+          "symbol": "ARM",
+          "name": "ARM Holdings PLC",
+          "market": "US",
+          "weight": 0.04968879668049793,
+          "raw_symbol": "ARM US EQUITY"
+        },
+        {
+          "symbol": "WDC",
+          "name": "Western Digital Corp",
+          "market": "US",
+          "weight": 0.04688796680497926,
+          "raw_symbol": "WDC US EQUITY"
+        },
+        {
+          "symbol": "CIEN",
+          "name": "Ciena Corp",
+          "market": "US",
+          "weight": 0.04553941908713693,
+          "raw_symbol": "CIEN US EQUITY"
+        },
+        {
+          "symbol": "009150",
+          "name": "삼성전기",
+          "market": "KR",
+          "weight": 0.042946058091286314,
+          "raw_symbol": "009150"
+        },
+        {
+          "symbol": "STX",
+          "name": "Seagate Technology Holdings PLC",
+          "market": "US",
+          "weight": 0.03713692946058092,
+          "raw_symbol": "STX US EQUITY"
+        },
+        {
+          "symbol": "BE",
+          "name": "Bloom Energy Corp",
+          "market": "US",
+          "weight": 0.036307053941908723,
+          "raw_symbol": "BE US EQUITY"
+        },
+        {
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
+          "market": "US",
+          "weight": 0.032261410788381746,
+          "raw_symbol": "MSTR US EQUITY"
+        },
+        {
+          "symbol": "000660",
+          "name": "SK하이닉스",
+          "market": "KR",
+          "weight": 0.029045643153526972,
+          "raw_symbol": "000660"
+        },
+        {
+          "symbol": "COIN",
+          "name": "Coinbase Global Inc",
+          "market": "US",
+          "weight": 0.027904564315352702,
+          "raw_symbol": "COIN US EQUITY"
+        },
+        {
+          "symbol": "VRT",
+          "name": "Vertiv Holdings Co",
+          "market": "US",
+          "weight": 0.0274896265560166,
+          "raw_symbol": "VRT US EQUITY"
+        },
+        {
+          "symbol": "GOOG",
+          "name": "Alphabet Inc",
+          "market": "US",
+          "weight": 0.025829875518672205,
+          "raw_symbol": "GOOG US EQUITY"
+        },
+        {
+          "symbol": "GEV",
+          "name": "GE Vernova Inc",
+          "market": "US",
+          "weight": 0.025414937759336103,
+          "raw_symbol": "GEV US EQUITY"
+        },
+        {
+          "symbol": "0043Y0",
+          "name": "TIME 차이나AI테크액티브",
+          "market": "KR_ETF_LIKE",
+          "weight": 0.023962655601659753,
+          "raw_symbol": "0043Y0"
+        },
+        {
+          "symbol": "LITE",
+          "name": "Lumentum Holdings Inc",
+          "market": "US",
+          "weight": 0.02240663900414938,
+          "raw_symbol": "LITE US EQUITY"
+        },
+        {
+          "symbol": "010120",
+          "name": "LS ELECTRIC",
+          "market": "KR",
+          "weight": 0.021369294605809133,
+          "raw_symbol": "010120"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms Inc",
+          "market": "US",
+          "weight": 0.020331950207468884,
+          "raw_symbol": "META US EQUITY"
+        },
+        {
+          "symbol": "COHR",
+          "name": "Coherent Corp",
+          "market": "US",
+          "weight": 0.019917012448132782,
+          "raw_symbol": "COHR US EQUITY"
+        },
+        {
+          "symbol": "CRCL",
+          "name": "Circle Internet Group Inc",
+          "market": "US",
+          "weight": 0.019813278008298758,
+          "raw_symbol": "CRCL US EQUITY"
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices Inc",
+          "market": "US",
+          "weight": 0.019294605809128635,
+          "raw_symbol": "AMD US EQUITY"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "market": "US",
+          "weight": 0.01856846473029046,
+          "raw_symbol": "AVGO US EQUITY"
+        },
+        {
+          "symbol": "006400",
+          "name": "삼성SDI",
+          "market": "KR",
+          "weight": 0.018464730290456435,
+          "raw_symbol": "006400"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "market": "US",
+          "weight": 0.018153526970954362,
+          "raw_symbol": "TSLA US EQUITY"
+        },
+        {
+          "symbol": "034020",
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "weight": 0.016390041493775938,
+          "raw_symbol": "034020"
+        },
+        {
+          "symbol": "005930",
+          "name": "삼성전자",
+          "market": "KR",
+          "weight": 0.01244813278008299,
+          "raw_symbol": "005930"
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corp",
+          "market": "US",
+          "weight": 0.012033195020746889,
+          "raw_symbol": "RKLB US EQUITY"
+        },
+        {
+          "symbol": "TSEM",
+          "name": "Tower Semiconductor Ltd",
+          "market": "US",
+          "weight": 0.01120331950207469,
+          "raw_symbol": "TSEM US EQUITY"
+        },
+        {
+          "symbol": "298040",
+          "name": "효성중공업",
+          "market": "KR",
+          "weight": 0.010580912863070542,
+          "raw_symbol": "298040"
+        },
+        {
+          "symbol": "2513 HK EQUITY",
+          "name": "Knowledge Atlas Technology JSC Ltd",
+          "market": "UNKNOWN",
+          "weight": 0.010373443983402491,
+          "raw_symbol": "2513 HK EQUITY"
+        },
+        {
+          "symbol": "HOOD",
+          "name": "Robinhood Markets Inc",
+          "market": "US",
+          "weight": 0.008817427385892118,
+          "raw_symbol": "HOOD US EQUITY"
+        },
+        {
+          "symbol": "NBIS",
+          "name": "Nebius Group NV",
+          "market": "US",
+          "weight": 0.008817427385892118,
+          "raw_symbol": "NBIS US EQUITY"
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding NV",
+          "market": "US",
+          "weight": 0.008298755186721993,
+          "raw_symbol": "ASML US EQUITY"
+        },
+        {
+          "symbol": "TER",
+          "name": "Teradyne Inc",
+          "market": "US",
+          "weight": 0.008298755186721993,
+          "raw_symbol": "TER US EQUITY"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "market": "US",
+          "weight": 0.007883817427385894,
+          "raw_symbol": "AMZN US EQUITY"
+        },
+        {
+          "symbol": "SIMO",
+          "name": "Silicon Motion Technology Corp",
+          "market": "US",
+          "weight": 0.007365145228215768,
+          "raw_symbol": "SIMO US EQUITY"
+        },
+        {
+          "symbol": "440110",
+          "name": "파두",
+          "market": "KR",
+          "weight": 0.006431535269709544,
+          "raw_symbol": "440110"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "market": "US",
+          "weight": 0.00612033195020747,
+          "raw_symbol": "MSFT US EQUITY"
+        }
+      ]
+    }
+  ],
+  "buy_orders": [
+    {
+      "symbol": "0043Y0",
+      "name": "TIME 차이나AI테크액티브",
+      "market": "KR",
+      "side": "BUY",
+      "current_price": 19190.0,
+      "ref_price": 19190.0,
+      "buy_qty": 20,
+      "estimated_buy_amount": 383800.0,
+      "currency": "KRW",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 20.0,
+      "gap_amount_before_order": 395773.84,
+      "remaining_budget_after_order": 1921600.0,
+      "status": "pending"
+    },
+    {
+      "symbol": "034020",
+      "name": "두산에너빌리티",
+      "market": "KR",
+      "side": "BUY",
+      "current_price": 128900.0,
+      "ref_price": 128900.0,
+      "buy_qty": 2,
+      "estimated_buy_amount": 257800.0,
+      "currency": "KRW",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 2.0,
+      "gap_amount_before_order": 270702.46,
+      "remaining_budget_after_order": 1921600.0,
+      "status": "pending"
+    },
+    {
+      "symbol": "010120",
+      "name": "LS ELECTRIC",
+      "market": "KR",
+      "side": "BUY",
+      "current_price": 255500.0,
+      "ref_price": 255500.0,
+      "buy_qty": 1,
+      "estimated_buy_amount": 255500.0,
+      "currency": "KRW",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 352941.18,
+      "remaining_budget_after_order": 1921600.0,
+      "status": "pending"
+    },
+    {
+      "symbol": "440110",
+      "name": "파두",
+      "market": "KR",
+      "side": "BUY",
+      "current_price": 81300.0,
+      "ref_price": 81300.0,
+      "buy_qty": 1,
+      "estimated_buy_amount": 81300.0,
+      "currency": "KRW",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 106225.01,
+      "remaining_budget_after_order": 1921600.0,
+      "status": "pending"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 208.5386,
+      "ref_price": 208.5386,
+      "buy_qty": 6,
+      "estimated_buy_amount": 1251.23,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 6.0,
+      "gap_amount_before_order": 1414.18,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 83.98,
+      "ref_price": 83.98,
+      "buy_qty": 13,
+      "estimated_buy_amount": 1091.74,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 13.0,
+      "gap_amount_before_order": 1136.86,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corp/DE",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 1007.0,
+      "ref_price": 1007.0,
+      "buy_qty": 1,
+      "estimated_buy_amount": 1007.0,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 1278.26,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "ARM",
+      "name": "ARM Holdings PLC",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 234.0,
+      "ref_price": 234.0,
+      "buy_qty": 4,
+      "estimated_buy_amount": 936.0,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 4.0,
+      "gap_amount_before_order": 1120.92,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 410.3,
+      "ref_price": 410.3,
+      "buy_qty": 2,
+      "estimated_buy_amount": 820.6,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 2.0,
+      "gap_amount_before_order": 1041.73,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 232.77,
+      "ref_price": 232.77,
+      "buy_qty": 3,
+      "estimated_buy_amount": 698.31,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 3.0,
+      "gap_amount_before_order": 821.31,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase Global Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 199.39,
+      "ref_price": 199.39,
+      "buy_qty": 3,
+      "estimated_buy_amount": 598.17,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 3.0,
+      "gap_amount_before_order": 669.53,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings PLC",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 591.81,
+      "ref_price": 591.81,
+      "buy_qty": 1,
+      "estimated_buy_amount": 591.81,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 618.95,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 522.0,
+      "ref_price": 522.0,
+      "buy_qty": 1,
+      "estimated_buy_amount": 522.0,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 810.31,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "CRCL",
+      "name": "Circle Internet Group Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 98.9637,
+      "ref_price": 98.9637,
+      "buy_qty": 5,
+      "estimated_buy_amount": 494.82,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 5.0,
+      "gap_amount_before_order": 557.4,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group NV",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 146.85,
+      "ref_price": 146.85,
+      "buy_qty": 3,
+      "estimated_buy_amount": 440.55,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 3.0,
+      "gap_amount_before_order": 442.56,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 422.01,
+      "ref_price": 422.01,
+      "buy_qty": 1,
+      "estimated_buy_amount": 422.01,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 517.62,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 409.56,
+      "ref_price": 409.56,
+      "buy_qty": 1,
+      "estimated_buy_amount": 409.56,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 758.49,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 375.4988,
+      "ref_price": 375.4988,
+      "buy_qty": 1,
+      "estimated_buy_amount": 375.5,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 589.95,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 345.09,
+      "ref_price": 345.09,
+      "buy_qty": 1,
+      "estimated_buy_amount": 345.09,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 661.75,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 171.9269,
+      "ref_price": 171.9269,
+      "buy_qty": 2,
+      "estimated_buy_amount": 343.85,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 2.0,
+      "gap_amount_before_order": 514.11,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 324.3,
+      "ref_price": 324.3,
+      "buy_qty": 1,
+      "estimated_buy_amount": 324.3,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 560.87,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 273.21,
+      "ref_price": 273.21,
+      "buy_qty": 1,
+      "estimated_buy_amount": 273.21,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 300.9,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 264.22,
+      "ref_price": 264.22,
+      "buy_qty": 1,
+      "estimated_buy_amount": 264.22,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 376.8,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 84.41,
+      "ref_price": 84.41,
+      "buy_qty": 3,
+      "estimated_buy_amount": 253.23,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 3.0,
+      "gap_amount_before_order": 271.74,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 79.49,
+      "ref_price": 79.49,
+      "buy_qty": 3,
+      "estimated_buy_amount": 238.47,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 3.0,
+      "gap_amount_before_order": 260.94,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor Ltd",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 199.88,
+      "ref_price": 199.88,
+      "buy_qty": 1,
+      "estimated_buy_amount": 199.88,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 258.54,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 193.0,
+      "ref_price": 193.0,
+      "buy_qty": 1,
+      "estimated_buy_amount": 193.0,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 227.37,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "SIMO",
+      "name": "Silicon Motion Technology Corp",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 159.99,
+      "ref_price": 159.99,
+      "buy_qty": 1,
+      "estimated_buy_amount": 159.99,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 303.19,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 158.6704,
+      "ref_price": 158.6704,
+      "buy_qty": 1,
+      "estimated_buy_amount": 158.67,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 295.24,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    },
+    {
+      "symbol": "POET",
+      "name": "POET Technologies Inc",
+      "market": "US",
+      "side": "BUY",
+      "current_price": 16.67,
+      "ref_price": 16.67,
+      "buy_qty": 1,
+      "estimated_buy_amount": 16.67,
+      "currency": "USD",
+      "current_qty": 0.0,
+      "expected_qty_after_buy": 1.0,
+      "gap_amount_before_order": 20.36,
+      "remaining_budget_after_order": 7470.12,
+      "status": "pending"
+    }
+  ],
+  "sell_candidates": [],
+  "block_reasons": [
+    "DRY_RUN=true",
+    "승인 필요",
+    "execute_orders=false"
+  ],
+  "approval_valid_minutes": 30,
+  "status": "pending_approval"
+}
