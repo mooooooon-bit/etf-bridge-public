@@ -1,0 +1,58 @@
+{
+  "type": "engine_status",
+  "data": {
+    "run_id": "20260427_173402",
+    "enabled": true,
+    "dryRun": true,
+    "brokerName": "KIS",
+    "accountAlias": "TIME ETF Bot",
+    "hostLabel": "Mac mini M1",
+    "lastHeartbeat": "2026-04-27T17:34:26",
+    "lastSyncAt": "2026-04-27T17:34:26",
+    "lastFetchAt": "2026-04-27T17:34:26",
+    "lastOrderRunAt": null,
+    "latestError": "",
+    "requireApproval": true,
+    "approvedRunId": "",
+    "executeOrders": false,
+    "blockReasons": [
+      "DRY_RUN=true",
+      "승인 필요",
+      "execute_orders=false"
+    ],
+    "sourceSummaries": [
+      {
+        "etfCode": "426030",
+        "etfName": "TIMEFOLIO 미국나스닥100액티브",
+        "timeAsOf": "2026-04-27 05:34:03 기준",
+        "timeAsOfSource": "PAGE_CANDIDATE",
+        "krxStatus": "NO_DATA",
+        "finalSource": "TIME_ONLY"
+      },
+      {
+        "etfCode": "456600",
+        "etfName": "TIMEFOLIO 글로벌AI인공지능액티브",
+        "timeAsOf": "2026-04-27 05:34:04 기준",
+        "timeAsOfSource": "PAGE_CANDIDATE",
+        "krxStatus": "NO_DATA",
+        "finalSource": "TIME_ONLY"
+      }
+    ],
+    "accountSummary": {
+      "cashKRW": 6.0,
+      "cashUSD": 0.0,
+      "domesticEvalKRW": 0,
+      "overseasEvalUSD": 0,
+      "totalEvalApprox": 0,
+      "lastUpdatedAt": "2026-04-27T17:34:26"
+    },
+    "performanceSummary": {
+      "currentPortfolioValue": 0.0,
+      "targetPortfolioValue": 3020000.0,
+      "trackingErrorPct": -100.0,
+      "estimatedPnLPct": 0.0,
+      "avgGapAmount": 56981.13,
+      "asOf": "2026-04-27T17:34:26"
+    }
+  }
+}
