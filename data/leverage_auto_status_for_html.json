@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30 23:22:20",
+  "updated_at": "2026-04-30 23:32:56",
   "engine": {
     "status": "RUNNING",
     "dry_run": true,
@@ -9,10 +9,10 @@
   "target": {
     "etf_name": "ProShares UltraPro QQQ",
     "ticker": "TQQQ",
-    "current_price": 58.2,
+    "current_price": 61.37,
     "buy_price": 56.5,
     "sell_price": 62.0,
-    "change_pct": 1.85
+    "change_pct": -0.8
   },
   "signal": {
     "calculated_signal": "HOLD",
@@ -23,9 +23,9 @@
   "risk": {
     "live_order_enabled": false,
     "market_order_allowed": false,
-    "max_order_usd": 500,
-    "max_daily_order_usd": 3000,
-    "today_order_usd": 0,
+    "max_order_usd": 500.0,
+    "max_daily_order_usd": 3000.0,
+    "today_order_usd": 0.0,
     "duplicate_order_block": true,
     "account_separated": true,
     "last_price_success": true
@@ -34,7 +34,7 @@
     "ticker": "TQQQ",
     "quantity": 0,
     "avg_price": 0,
-    "current_price": 58.2,
+    "current_price": 61.37,
     "market_value": 0,
     "unrealized_pnl": 0,
     "unrealized_pnl_pct": 0,
@@ -83,24 +83,24 @@
   },
   "orders": [
     {
-      "time": "23:22",
+      "time": "23:32",
       "etf": "TQQQ",
       "signal": "HOLD",
       "order_type": "-",
       "quantity": 0,
-      "price": 58.2,
+      "price": 61.37,
       "amount": 0,
       "result": "NO_ORDER",
-      "memo": "1차 테스트: 주문 기능 비활성화"
+      "memo": "BUY/SELL 신호가 아니므로 주문 없음"
     }
   ],
   "signal_history": [
     {
-      "time": "23:22",
-      "current_price": 58.2,
+      "time": "23:32",
+      "current_price": 61.37,
       "buy_price": 56.5,
       "sell_price": 62.0,
-      "change_pct": 1.85,
+      "change_pct": -0.8,
       "calculated_signal": "HOLD",
       "final_signal": "HOLD",
       "reason": "현재가가 매수/매도 기준 사이에 있어 관망입니다."
@@ -108,9 +108,19 @@
   ],
   "logs": [
     {
-      "time": "23:22",
+      "time": "23:32",
       "level": "INFO",
-      "message": "레버리지 오토 더미 엔진 정상 실행"
+      "message": "레버리지 오토 엔진 시작"
+    },
+    {
+      "time": "23:32",
+      "level": "INFO",
+      "message": "TQQQ 현재가 조회 성공: $61.37"
+    },
+    {
+      "time": "23:32",
+      "level": "INFO",
+      "message": "주문 판단 결과: NO_ORDER / BUY/SELL 신호가 아니므로 주문 없음"
     }
   ]
 }
