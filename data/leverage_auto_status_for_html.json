@@ -1,79 +1,60 @@
 {
-  "updated_at": "2026-04-30 23:32:56",
+  "updated_at": "2026-04-30 23:48:54",
   "engine": {
-    "status": "RUNNING",
+    "status": "ERROR",
     "dry_run": true,
     "execute_orders": false,
     "telegram_enabled": false
   },
+  "market": {
+    "session": "UNKNOWN",
+    "label": "오류",
+    "tradable": false,
+    "session_allowed": false,
+    "is_dst": false,
+    "kst_time": "2026-04-30 23:48:54"
+  },
   "target": {
-    "etf_name": "ProShares UltraPro QQQ",
-    "ticker": "TQQQ",
-    "current_price": 61.37,
-    "buy_price": 56.5,
-    "sell_price": 62.0,
-    "change_pct": -0.8
+    "etf_name": "",
+    "ticker": "",
+    "current_price": 0,
+    "buy_price": 0,
+    "sell_price": 0,
+    "change_pct": 0
   },
   "signal": {
-    "calculated_signal": "HOLD",
-    "final_signal": "HOLD",
-    "confidence": "HIGH",
-    "reason": "현재가가 매수/매도 기준 사이에 있어 관망입니다."
+    "calculated_signal": "CHECK_REQUIRED",
+    "final_signal": "CHECK_REQUIRED",
+    "confidence": "LOW",
+    "reason": "엔진 오류로 확인 필요"
   },
   "risk": {
     "live_order_enabled": false,
     "market_order_allowed": false,
-    "max_order_usd": 500.0,
-    "max_daily_order_usd": 3000.0,
-    "today_order_usd": 0.0,
+    "max_order_usd": 0,
+    "max_daily_order_usd": 0,
+    "today_order_usd": 0,
     "duplicate_order_block": true,
     "account_separated": true,
-    "last_price_success": true
+    "last_price_success": false
   },
-  "position": {
-    "ticker": "TQQQ",
-    "quantity": 0,
-    "avg_price": 0,
-    "current_price": 61.37,
-    "market_value": 0,
-    "unrealized_pnl": 0,
-    "unrealized_pnl_pct": 0,
-    "cash_usd": 0,
-    "buying_power_usd": 0
-  },
-  "mode": {
-    "strategy_mode": "SHORT_TERM",
-    "trade_state": "WAITING_ENTRY",
-    "next_action": "HOLD",
-    "next_action_amount_usd": 0,
-    "description": "현재가가 매수/매도 기준 사이에 있어 관망입니다."
-  },
-  "brake": {
-    "daily_loss_limit_usd": 150,
-    "weekly_loss_limit_usd": 400,
-    "max_position_usd": 3000,
-    "max_position_pct": 35,
-    "stop_loss_pct": -7,
-    "take_profit_pct": 12,
-    "volatility_block": true,
-    "price_spike_block": true
-  },
-  "block_reasons": [],
-  "performance": {
-    "today_realized_pnl": 0,
-    "week_realized_pnl": 0,
-    "total_realized_pnl": 0,
-    "win_rate_pct": 0,
-    "avg_win_usd": 0,
-    "avg_loss_usd": 0,
-    "max_drawdown_pct": 0
-  },
+  "position": {},
+  "mode": {},
+  "brake": {},
+  "block_reasons": [
+    {
+      "code": "ENGINE_ERROR",
+      "message": "Expecting ',' delimiter: line 27 column 3 (char 543)",
+      "active": true
+    }
+  ],
+  "performance": {},
   "explain": {
-    "summary": "현재가가 매수/매도 기준 사이에 있어 관망입니다.",
-    "buy_condition": "현재가가 $56.50 이하로 내려오면 BUY 후보",
-    "sell_condition": "현재가가 $62.00 이상으로 올라오면 SELL 후보",
-    "hold_condition": "현재가가 매수/매도 기준 사이면 HOLD",
-    "next_trigger": "TQQQ가 $56.50 이하 또는 $62.00 이상이면 신호 변경"
+    "summary": "엔진 오류 발생",
+    "buy_condition": "",
+    "sell_condition": "",
+    "hold_condition": "",
+    "next_trigger": "로그 확인 필요"
   },
   "telegram": {
     "connected": false,
@@ -81,46 +62,13 @@
     "last_message_summary": "",
     "duplicate_alert_block": true
   },
-  "orders": [
-    {
-      "time": "23:32",
-      "etf": "TQQQ",
-      "signal": "HOLD",
-      "order_type": "-",
-      "quantity": 0,
-      "price": 61.37,
-      "amount": 0,
-      "result": "NO_ORDER",
-      "memo": "BUY/SELL 신호가 아니므로 주문 없음"
-    }
-  ],
-  "signal_history": [
-    {
-      "time": "23:32",
-      "current_price": 61.37,
-      "buy_price": 56.5,
-      "sell_price": 62.0,
-      "change_pct": -0.8,
-      "calculated_signal": "HOLD",
-      "final_signal": "HOLD",
-      "reason": "현재가가 매수/매도 기준 사이에 있어 관망입니다."
-    }
-  ],
+  "orders": [],
+  "signal_history": [],
   "logs": [
     {
-      "time": "23:32",
-      "level": "INFO",
-      "message": "레버리지 오토 엔진 시작"
-    },
-    {
-      "time": "23:32",
-      "level": "INFO",
-      "message": "TQQQ 현재가 조회 성공: $61.37"
-    },
-    {
-      "time": "23:32",
-      "level": "INFO",
-      "message": "주문 판단 결과: NO_ORDER / BUY/SELL 신호가 아니므로 주문 없음"
+      "time": "23:48",
+      "level": "ERROR",
+      "message": "Expecting ',' delimiter: line 27 column 3 (char 543)"
     }
   ]
 }
