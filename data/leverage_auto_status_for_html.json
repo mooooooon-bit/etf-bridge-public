@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 08:44:25",
+  "updated_at": "2026-05-02 11:06:27",
   "engine": {
     "status": "RUNNING",
     "dry_run": true,
@@ -7,12 +7,12 @@
     "telegram_enabled": true
   },
   "market": {
-    "session": "EXTENDED_AFTERMARKET",
-    "label": "애프터마켓 연장",
+    "session": "DAYTIME",
+    "label": "미국 주간거래",
     "tradable": true,
-    "session_allowed": false,
+    "session_allowed": true,
     "is_dst": true,
-    "kst_time": "2026-05-02 08:44:25"
+    "kst_time": "2026-05-02 11:06:26"
   },
   "target": {
     "etf_name": "ProShares UltraPro QQQ",
@@ -52,7 +52,7 @@
   },
   "mode": {
     "strategy_mode": "GRADE1_VOLATILE",
-    "trade_state": "BLOCKED",
+    "trade_state": "HOLD",
     "next_action": "HOLD",
     "next_action_amount_usd": 0,
     "description": "전일 대비 0.00%로 1차 진입 기준 -4.5% 미도달"
@@ -67,13 +67,7 @@
     "volatility_block": false,
     "price_spike_block": false
   },
-  "block_reasons": [
-    {
-      "code": "SESSION_NOT_ALLOWED",
-      "message": "애프터마켓 연장 거래가 설정에서 허용되지 않았습니다.",
-      "active": true
-    }
-  ],
+  "block_reasons": [],
   "performance": {
     "today_realized_pnl": 0,
     "week_realized_pnl": 0,
@@ -152,12 +146,12 @@
   "telegram": {
     "connected": true,
     "last_sent_at": "",
-    "last_message_summary": "리포트 시간 아님: 08:44",
+    "last_message_summary": "리포트 시간 아님: 11:06",
     "duplicate_alert_block": true
   },
   "orders": [
     {
-      "time": "08:44",
+      "time": "11:06",
       "etf": "TQQQ",
       "signal": "HOLD",
       "order_type": "-",
@@ -170,7 +164,7 @@
   ],
   "signal_history": [
     {
-      "time": "08:44",
+      "time": "11:06",
       "ticker": "TQQQ",
       "current_price": 65.3,
       "change_pct": 0,
@@ -181,29 +175,29 @@
   ],
   "logs": [
     {
-      "time": "08:44",
+      "time": "11:06",
       "level": "INFO",
       "message": "레버리지 오토 엔진 시작"
     },
     {
-      "time": "08:44",
+      "time": "11:06",
       "level": "INFO",
       "message": "활성 종목: SOXL, TQQQ"
     },
     {
-      "time": "08:44",
+      "time": "11:06",
       "level": "INFO",
       "message": "선정 후보: TQQQ / HOLD / 전일 대비 0.00%로 1차 진입 기준 -4.5% 미도달"
     },
     {
-      "time": "08:44",
+      "time": "11:06",
       "level": "INFO",
       "message": "주문 판단: NO_ORDER / 매수/매도 신호 없음"
     },
     {
-      "time": "08:44",
+      "time": "11:06",
       "level": "INFO",
-      "message": "정기 리포트 미발송: 리포트 시간 아님: 08:44"
+      "message": "정기 리포트 미발송: 리포트 시간 아님: 11:06"
     }
   ]
 }
