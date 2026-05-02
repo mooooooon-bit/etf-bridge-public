@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-02 22:12:09",
+  "updated_at": "2026-05-02 22:31:28",
   "engine": {
     "status": "RUNNING",
-    "dry_run": true,
-    "execute_orders": false,
+    "dry_run": false,
+    "execute_orders": true,
     "telegram_enabled": true
   },
   "market": {
-    "session": "PREMARKET",
-    "label": "프리마켓",
+    "session": "REGULAR",
+    "label": "정규장",
     "tradable": true,
     "session_allowed": true,
     "is_dst": true,
-    "kst_time": "2026-05-02 22:12:08"
+    "kst_time": "2026-05-02 22:31:27"
   },
   "kis": {
     "connected": true,
@@ -21,7 +21,7 @@
     "account_no_masked": "****7120-01",
     "balance_success": true,
     "order_api_ready": false,
-    "last_balance_at": "2026-05-02 22:12:08",
+    "last_balance_at": "2026-05-02 22:31:27",
     "cash_usd": 0.0,
     "buying_power_usd": 0.0,
     "error": "",
@@ -42,7 +42,7 @@
     "reason": "전일 대비 0.00%로 1차 진입 기준 -4.5% 미도달"
   },
   "risk": {
-    "live_order_enabled": false,
+    "live_order_enabled": true,
     "market_order_allowed": false,
     "max_order_usd": 0,
     "max_daily_order_usd": 3000,
@@ -161,12 +161,12 @@
   "telegram": {
     "connected": true,
     "last_sent_at": "",
-    "last_message_summary": "리포트 시간 아님: 22:12",
+    "last_message_summary": "리포트 시간 아님: 22:31",
     "duplicate_alert_block": true
   },
   "orders": [
     {
-      "time": "22:12",
+      "time": "22:31",
       "etf": "TQQQ",
       "signal": "HOLD",
       "order_type": "-",
@@ -179,7 +179,7 @@
   ],
   "signal_history": [
     {
-      "time": "22:12",
+      "time": "22:31",
       "ticker": "TQQQ",
       "current_price": 65.3,
       "change_pct": 0,
@@ -190,39 +190,39 @@
   ],
   "logs": [
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
       "message": "레버리지 오토 엔진 시작"
     },
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
       "message": "KIS 연결 상태: True / LIVE"
     },
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
       "message": "활성 종목: SOXL, TQQQ"
     },
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
       "message": "포지션 소스: KIS / 보유 종목 수: 0"
     },
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
       "message": "선정 후보: TQQQ / HOLD / 전일 대비 0.00%로 1차 진입 기준 -4.5% 미도달"
     },
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
       "message": "주문 판단: NO_ORDER / 매수/매도 신호 없음"
     },
     {
-      "time": "22:12",
+      "time": "22:31",
       "level": "INFO",
-      "message": "정기 리포트 미발송: 리포트 시간 아님: 22:12"
+      "message": "정기 리포트 미발송: 리포트 시간 아님: 22:31"
     }
   ]
 }
