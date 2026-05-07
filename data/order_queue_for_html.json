@@ -10,9 +10,9 @@
       "refPrice": 20935.0,
       "estAmount": 355895.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "010120",
@@ -23,9 +23,9 @@
       "refPrice": 318500.0,
       "estAmount": 318500.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "034020",
@@ -36,9 +36,9 @@
       "refPrice": 136400.0,
       "estAmount": 272800.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "005930",
@@ -49,9 +49,9 @@
       "refPrice": 271500.0,
       "estAmount": 271500.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "440110",
@@ -62,9 +62,9 @@
       "refPrice": 83800.0,
       "estAmount": 251400.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "INTC",
@@ -72,12 +72,38 @@
       "market": "US",
       "side": "BUY",
       "qty": 15,
-      "refPrice": 109.32,
-      "estAmount": 1639.8,
+      "refPrice": 108.28,
+      "estAmount": 1624.2,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings PLC",
+      "market": "US",
+      "side": "BUY",
+      "qty": 2,
+      "refPrice": 758.195,
+      "estAmount": 1516.39,
+      "currency": "USD",
+      "generatedAt": "2026-05-08T08:30:42",
+      "status": "pending",
+      "runId": "20260508_083017"
+    },
+    {
+      "symbol": "ARM",
+      "name": "ARM Holdings PLC",
+      "market": "US",
+      "side": "BUY",
+      "qty": 7,
+      "refPrice": 210.39,
+      "estAmount": 1472.73,
+      "currency": "USD",
+      "generatedAt": "2026-05-08T08:30:42",
+      "status": "pending",
+      "runId": "20260508_083017"
     },
     {
       "symbol": "SNDK",
@@ -85,25 +111,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 1370.18,
-      "estAmount": 1370.18,
+      "refPrice": 1330.6417,
+      "estAmount": 1330.64,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
-      "symbol": "ARM",
-      "name": "ARM Holdings PLC",
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
       "market": "US",
       "side": "BUY",
       "qty": 6,
-      "refPrice": 218.4675,
-      "estAmount": 1310.81,
+      "refPrice": 210.99,
+      "estAmount": 1265.94,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "BE",
@@ -111,12 +137,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 4,
-      "refPrice": 281.73,
-      "estAmount": 1126.92,
+      "refPrice": 259.64,
+      "estAmount": 1038.56,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "WDC",
@@ -124,12 +150,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 474.9859,
-      "estAmount": 949.97,
+      "refPrice": 460.0952,
+      "estAmount": 920.19,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "LITE",
@@ -137,25 +163,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 924.52,
-      "estAmount": 924.52,
+      "refPrice": 880.0,
+      "estAmount": 880.0,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
-    },
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corp",
-      "market": "US",
-      "side": "BUY",
-      "qty": 4,
-      "refPrice": 208.3,
-      "estAmount": 833.2,
-      "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
-      "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "AMZN",
@@ -163,38 +176,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 3,
-      "refPrice": 275.6862,
-      "estAmount": 827.06,
+      "refPrice": 270.4999,
+      "estAmount": 811.5,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
-    },
-    {
-      "symbol": "STX",
-      "name": "Seagate Technology Holdings PLC",
-      "market": "US",
-      "side": "BUY",
-      "qty": 1,
-      "refPrice": 775.0,
-      "estAmount": 775.0,
-      "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
-      "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group Inc",
       "market": "US",
       "side": "BUY",
-      "qty": 6,
-      "refPrice": 119.51,
-      "estAmount": 717.06,
+      "qty": 7,
+      "refPrice": 112.98,
+      "estAmount": 790.86,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "COIN",
@@ -202,12 +202,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 3,
-      "refPrice": 196.5959,
-      "estAmount": 589.79,
+      "refPrice": 185.22,
+      "estAmount": 555.66,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "CIEN",
@@ -215,38 +215,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 571.0,
-      "estAmount": 571.0,
+      "refPrice": 533.5,
+      "estAmount": 533.5,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets Inc",
       "market": "US",
       "side": "BUY",
-      "qty": 6,
-      "refPrice": 78.46,
-      "estAmount": 470.76,
+      "qty": 7,
+      "refPrice": 75.8,
+      "estAmount": 530.6,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom Inc",
-      "market": "US",
-      "side": "BUY",
-      "qty": 1,
-      "refPrice": 422.985,
-      "estAmount": 422.99,
-      "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
-      "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "TSM",
@@ -254,25 +241,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 416.825,
-      "estAmount": 416.82,
+      "refPrice": 413.41,
+      "estAmount": 413.41,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices Inc",
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 413.0,
-      "estAmount": 413.0,
+      "refPrice": 412.6,
+      "estAmount": 412.6,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "TSLA",
@@ -280,12 +267,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 406.0,
-      "estAmount": 406.0,
+      "refPrice": 409.0,
+      "estAmount": 409.0,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "market": "US",
+      "side": "BUY",
+      "qty": 1,
+      "refPrice": 407.06,
+      "estAmount": 407.06,
+      "currency": "USD",
+      "generatedAt": "2026-05-08T08:30:42",
+      "status": "pending",
+      "runId": "20260508_083017"
     },
     {
       "symbol": "GOOGL",
@@ -293,12 +293,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 401.6057,
-      "estAmount": 401.61,
+      "refPrice": 396.32,
+      "estAmount": 396.32,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "GOOG",
@@ -306,12 +306,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 399.0786,
-      "estAmount": 399.08,
+      "refPrice": 393.81,
+      "estAmount": 393.81,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "MSTR",
@@ -319,12 +319,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 185.3,
-      "estAmount": 370.6,
+      "refPrice": 178.6,
+      "estAmount": 357.2,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "VRT",
@@ -332,25 +332,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 356.1,
-      "estAmount": 356.1,
+      "refPrice": 337.73,
+      "estAmount": 337.73,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
-    },
-    {
-      "symbol": "AAOI",
-      "name": "Applied Optoelectronics Inc",
-      "market": "US",
-      "side": "BUY",
-      "qty": 2,
-      "refPrice": 173.5656,
-      "estAmount": 347.13,
-      "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
-      "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "COHR",
@@ -358,12 +345,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 327.69,
-      "estAmount": 327.69,
+      "refPrice": 315.02,
+      "estAmount": 315.02,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
+    },
+    {
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics Inc",
+      "market": "US",
+      "side": "BUY",
+      "qty": 2,
+      "refPrice": 144.6,
+      "estAmount": 289.2,
+      "currency": "USD",
+      "generatedAt": "2026-05-08T08:30:42",
+      "status": "pending",
+      "runId": "20260508_083017"
     },
     {
       "symbol": "SIMO",
@@ -371,12 +371,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 241.0,
-      "estAmount": 241.0,
+      "refPrice": 239.002,
+      "estAmount": 239.0,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "TSEM",
@@ -384,12 +384,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 212.1,
-      "estAmount": 212.1,
+      "refPrice": 206.5499,
+      "estAmount": 206.55,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Inc",
+      "market": "US",
+      "side": "BUY",
+      "qty": 1,
+      "refPrice": 184.4421,
+      "estAmount": 184.44,
+      "currency": "USD",
+      "generatedAt": "2026-05-08T08:30:42",
+      "status": "pending",
+      "runId": "20260508_083017"
     },
     {
       "symbol": "NBIS",
@@ -397,12 +410,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 189.19,
-      "estAmount": 189.19,
+      "refPrice": 180.0,
+      "estAmount": 180.0,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     },
     {
       "symbol": "RKLB",
@@ -410,12 +423,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 85.4983,
-      "estAmount": 171.0,
+      "refPrice": 82.05,
+      "estAmount": 164.1,
       "currency": "USD",
-      "generatedAt": "2026-05-07T22:00:45",
+      "generatedAt": "2026-05-08T08:30:42",
       "status": "pending",
-      "runId": "20260507_220019"
+      "runId": "20260508_083017"
     }
   ]
 }
