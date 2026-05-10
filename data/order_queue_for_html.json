@@ -10,9 +10,9 @@
       "refPrice": 20620.0,
       "estAmount": 350540.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "010120",
@@ -23,9 +23,9 @@
       "refPrice": 313000.0,
       "estAmount": 313000.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "440110",
@@ -36,9 +36,9 @@
       "refPrice": 92400.0,
       "estAmount": 277200.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "005930",
@@ -49,9 +49,9 @@
       "refPrice": 268500.0,
       "estAmount": 268500.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "034020",
@@ -62,9 +62,9 @@
       "refPrice": 129600.0,
       "estAmount": 259200.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "INTC",
@@ -75,9 +75,9 @@
       "refPrice": 124.92,
       "estAmount": 1623.96,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "SNDK",
@@ -88,9 +88,9 @@
       "refPrice": 1562.34,
       "estAmount": 1562.34,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "ARM",
@@ -101,9 +101,9 @@
       "refPrice": 213.27,
       "estAmount": 1492.89,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "NVDA",
@@ -114,9 +114,9 @@
       "refPrice": 215.2,
       "estAmount": 1291.2,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "WDC",
@@ -127,9 +127,9 @@
       "refPrice": 480.0,
       "estAmount": 960.0,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "LITE",
@@ -140,9 +140,9 @@
       "refPrice": 903.8,
       "estAmount": 903.8,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "AMZN",
@@ -153,9 +153,9 @@
       "refPrice": 272.68,
       "estAmount": 818.04,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "CRCL",
@@ -166,9 +166,9 @@
       "refPrice": 113.67,
       "estAmount": 795.69,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "BE",
@@ -179,9 +179,9 @@
       "refPrice": 261.03,
       "estAmount": 783.09,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "STX",
@@ -192,9 +192,9 @@
       "refPrice": 782.64,
       "estAmount": 782.64,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "COIN",
@@ -205,9 +205,9 @@
       "refPrice": 201.16,
       "estAmount": 603.48,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "CIEN",
@@ -218,9 +218,9 @@
       "refPrice": 548.11,
       "estAmount": 548.11,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "HOOD",
@@ -231,9 +231,9 @@
       "refPrice": 77.03,
       "estAmount": 462.18,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "AMD",
@@ -244,9 +244,9 @@
       "refPrice": 455.19,
       "estAmount": 455.19,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "AVGO",
@@ -257,9 +257,9 @@
       "refPrice": 430.0,
       "estAmount": 430.0,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "TSLA",
@@ -270,9 +270,9 @@
       "refPrice": 428.35,
       "estAmount": 428.35,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "TSM",
@@ -283,9 +283,9 @@
       "refPrice": 411.68,
       "estAmount": 411.68,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "GOOGL",
@@ -296,9 +296,9 @@
       "refPrice": 400.8,
       "estAmount": 400.8,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "GOOG",
@@ -309,9 +309,9 @@
       "refPrice": 397.05,
       "estAmount": 397.05,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "VRT",
@@ -322,9 +322,9 @@
       "refPrice": 339.97,
       "estAmount": 339.97,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "COHR",
@@ -335,9 +335,9 @@
       "refPrice": 335.26,
       "estAmount": 335.26,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "AAOI",
@@ -348,9 +348,9 @@
       "refPrice": 148.94,
       "estAmount": 297.88,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "SIMO",
@@ -361,9 +361,9 @@
       "refPrice": 253.59,
       "estAmount": 253.59,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "TSEM",
@@ -374,9 +374,9 @@
       "refPrice": 211.02,
       "estAmount": 211.02,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "RKLB",
@@ -387,9 +387,9 @@
       "refPrice": 105.47,
       "estAmount": 210.94,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "MSTR",
@@ -400,9 +400,9 @@
       "refPrice": 187.59,
       "estAmount": 187.59,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "GLW",
@@ -413,9 +413,9 @@
       "refPrice": 186.94,
       "estAmount": 186.94,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     },
     {
       "symbol": "NBIS",
@@ -426,9 +426,9 @@
       "refPrice": 177.05,
       "estAmount": 177.05,
       "currency": "USD",
-      "generatedAt": "2026-05-10T08:30:25",
+      "generatedAt": "2026-05-10T22:00:37",
       "status": "pending",
-      "runId": "20260510_083000"
+      "runId": "20260510_220013"
     }
   ]
 }
