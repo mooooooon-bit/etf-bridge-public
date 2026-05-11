@@ -7,12 +7,12 @@
       "market": "KR",
       "side": "BUY",
       "qty": 4,
-      "refPrice": 92400.0,
-      "estAmount": 369600.0,
+      "refPrice": 100400.0,
+      "estAmount": 401600.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "0043Y0",
@@ -20,12 +20,12 @@
       "market": "KR",
       "side": "BUY",
       "qty": 16,
-      "refPrice": 20620.0,
-      "estAmount": 329920.0,
+      "refPrice": 21300.0,
+      "estAmount": 340800.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "010120",
@@ -33,12 +33,12 @@
       "market": "KR",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 313000.0,
-      "estAmount": 313000.0,
+      "refPrice": 304000.0,
+      "estAmount": 304000.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "005930",
@@ -46,12 +46,12 @@
       "market": "KR",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 268500.0,
-      "estAmount": 268500.0,
+      "refPrice": 285500.0,
+      "estAmount": 285500.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "034020",
@@ -59,38 +59,25 @@
       "market": "KR",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 129600.0,
-      "estAmount": 259200.0,
+      "refPrice": 128000.0,
+      "estAmount": 256000.0,
       "currency": "KRW",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "INTC",
       "name": "Intel Corp",
       "market": "US",
       "side": "BUY",
-      "qty": 14,
-      "refPrice": 124.92,
-      "estAmount": 1748.88,
+      "qty": 13,
+      "refPrice": 131.33,
+      "estAmount": 1707.29,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
-    },
-    {
-      "symbol": "STX",
-      "name": "Seagate Technology Holdings PLC",
-      "market": "US",
-      "side": "BUY",
-      "qty": 2,
-      "refPrice": 782.64,
-      "estAmount": 1565.28,
-      "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
-      "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "SNDK",
@@ -98,12 +85,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 1562.34,
-      "estAmount": 1562.34,
+      "refPrice": 1579.32,
+      "estAmount": 1579.32,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings PLC",
+      "market": "US",
+      "side": "BUY",
+      "qty": 2,
+      "refPrice": 785.6687,
+      "estAmount": 1571.34,
+      "currency": "USD",
+      "generatedAt": "2026-05-11T22:00:42",
+      "status": "pending",
+      "runId": "20260511_220018"
     },
     {
       "symbol": "ARM",
@@ -111,12 +111,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 7,
-      "refPrice": 213.27,
-      "estAmount": 1492.89,
+      "refPrice": 206.2,
+      "estAmount": 1443.4,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "NVDA",
@@ -124,12 +124,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 6,
-      "refPrice": 215.2,
-      "estAmount": 1291.2,
+      "refPrice": 213.42,
+      "estAmount": 1280.52,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "WDC",
@@ -137,25 +137,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 480.0,
-      "estAmount": 960.0,
+      "refPrice": 485.425,
+      "estAmount": 970.85,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
-    },
-    {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices Inc",
-      "market": "US",
-      "side": "BUY",
-      "qty": 2,
-      "refPrice": 455.19,
-      "estAmount": 910.38,
-      "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
-      "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "LITE",
@@ -163,12 +150,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 903.8,
-      "estAmount": 903.8,
+      "refPrice": 957.0,
+      "estAmount": 957.0,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "market": "US",
+      "side": "BUY",
+      "qty": 2,
+      "refPrice": 466.01,
+      "estAmount": 932.02,
+      "currency": "USD",
+      "generatedAt": "2026-05-11T22:00:42",
+      "status": "pending",
+      "runId": "20260511_220018"
     },
     {
       "symbol": "AMZN",
@@ -176,25 +176,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 3,
-      "refPrice": 272.68,
-      "estAmount": 818.04,
+      "refPrice": 270.51,
+      "estAmount": 811.53,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
-    },
-    {
-      "symbol": "CRCL",
-      "name": "Circle Internet Group Inc",
-      "market": "US",
-      "side": "BUY",
-      "qty": 7,
-      "refPrice": 113.67,
-      "estAmount": 795.69,
-      "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
-      "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "BE",
@@ -202,12 +189,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 3,
-      "refPrice": 261.03,
-      "estAmount": 783.09,
+      "refPrice": 266.0,
+      "estAmount": 798.0,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
+    },
+    {
+      "symbol": "CRCL",
+      "name": "Circle Internet Group Inc",
+      "market": "US",
+      "side": "BUY",
+      "qty": 6,
+      "refPrice": 114.96,
+      "estAmount": 689.76,
+      "currency": "USD",
+      "generatedAt": "2026-05-11T22:00:42",
+      "status": "pending",
+      "runId": "20260511_220018"
     },
     {
       "symbol": "COIN",
@@ -215,12 +215,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 3,
-      "refPrice": 201.16,
-      "estAmount": 603.48,
+      "refPrice": 199.21,
+      "estAmount": 597.63,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "CIEN",
@@ -228,25 +228,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 548.11,
-      "estAmount": 548.11,
+      "refPrice": 549.16,
+      "estAmount": 549.16,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets Inc",
       "market": "US",
       "side": "BUY",
-      "qty": 6,
-      "refPrice": 77.03,
-      "estAmount": 462.18,
+      "qty": 7,
+      "refPrice": 76.1944,
+      "estAmount": 533.36,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "AVGO",
@@ -254,12 +254,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 430.0,
-      "estAmount": 430.0,
+      "refPrice": 424.21,
+      "estAmount": 424.21,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "TSLA",
@@ -267,12 +267,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 428.35,
-      "estAmount": 428.35,
+      "refPrice": 423.42,
+      "estAmount": 423.42,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "TSM",
@@ -280,12 +280,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 411.68,
-      "estAmount": 411.68,
+      "refPrice": 404.1097,
+      "estAmount": 404.11,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "GOOGL",
@@ -293,12 +293,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 400.8,
-      "estAmount": 400.8,
+      "refPrice": 395.9,
+      "estAmount": 395.9,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "GOOG",
@@ -306,25 +306,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 397.05,
-      "estAmount": 397.05,
+      "refPrice": 392.2,
+      "estAmount": 392.2,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
-    },
-    {
-      "symbol": "VRT",
-      "name": "Vertiv Holdings Co",
-      "market": "US",
-      "side": "BUY",
-      "qty": 1,
-      "refPrice": 339.97,
-      "estAmount": 339.97,
-      "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
-      "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "COHR",
@@ -332,12 +319,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 335.26,
-      "estAmount": 335.26,
+      "refPrice": 344.36,
+      "estAmount": 344.36,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co",
+      "market": "US",
+      "side": "BUY",
+      "qty": 1,
+      "refPrice": 342.95,
+      "estAmount": 342.95,
+      "currency": "USD",
+      "generatedAt": "2026-05-11T22:00:42",
+      "status": "pending",
+      "runId": "20260511_220018"
     },
     {
       "symbol": "AAOI",
@@ -345,12 +345,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 148.94,
-      "estAmount": 297.88,
+      "refPrice": 154.47,
+      "estAmount": 308.94,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "SIMO",
@@ -358,12 +358,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 253.59,
-      "estAmount": 253.59,
+      "refPrice": 254.8,
+      "estAmount": 254.8,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "TSEM",
@@ -371,12 +371,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 211.02,
-      "estAmount": 211.02,
+      "refPrice": 209.21,
+      "estAmount": 209.21,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "RKLB",
@@ -384,25 +384,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 2,
-      "refPrice": 105.47,
-      "estAmount": 210.94,
+      "refPrice": 104.25,
+      "estAmount": 208.5,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
-    },
-    {
-      "symbol": "MSTR",
-      "name": "Strategy Inc",
-      "market": "US",
-      "side": "BUY",
-      "qty": 1,
-      "refPrice": 187.59,
-      "estAmount": 187.59,
-      "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
-      "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     },
     {
       "symbol": "GLW",
@@ -410,12 +397,25 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 186.94,
-      "estAmount": 186.94,
+      "refPrice": 192.14,
+      "estAmount": 192.14,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "market": "US",
+      "side": "BUY",
+      "qty": 1,
+      "refPrice": 188.95,
+      "estAmount": 188.95,
+      "currency": "USD",
+      "generatedAt": "2026-05-11T22:00:42",
+      "status": "pending",
+      "runId": "20260511_220018"
     },
     {
       "symbol": "NBIS",
@@ -423,12 +423,12 @@
       "market": "US",
       "side": "BUY",
       "qty": 1,
-      "refPrice": 177.05,
-      "estAmount": 177.05,
+      "refPrice": 178.73,
+      "estAmount": 178.73,
       "currency": "USD",
-      "generatedAt": "2026-05-11T08:30:26",
+      "generatedAt": "2026-05-11T22:00:42",
       "status": "pending",
-      "runId": "20260511_083002"
+      "runId": "20260511_220018"
     }
   ]
 }
